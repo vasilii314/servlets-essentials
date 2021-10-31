@@ -1,0 +1,11 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+.idea/
+target/
+.mvn/
+json/
+tomcat.8080/
+mvnw
+mvnw.cmd
+ServletsEssentials.iml
